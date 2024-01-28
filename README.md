@@ -1,8 +1,8 @@
 <p width=100px align="center"><img src="https://storage.deepin.org/thread/202208031419283599_deepin-wine-runner.png"></p>
 <h1 align="center">Wine 运行器 C++ 版</h1>
 <hr>
-<a href='https://gitee.com/gfdgd-xi/deep-wine-runner-cpp/stargazers'><img src='https://gitee.com/gfdgd-xi/deep-wine-runner-cpp/badge/star.svg?theme=dark' alt='star'></img></a>
-<a href='https://gitee.com/gfdgd-xi/deep-wine-runner-cpp/members'><img src='https://gitee.com/gfdgd-xi/deep-wine-runner-cpp/badge/fork.svg?theme=dark' alt='fork'></img></a>  
+<a href='https://gitee.com/gfdgd-xi/deep-wine-runner/stargazers'><img src='https://gitee.com/gfdgd-xi/deep-wine-runner/badge/star.svg?theme=dark' alt='star'></img></a>
+<a href='https://gitee.com/gfdgd-xi/deep-wine-runner/members'><img src='https://gitee.com/gfdgd-xi/deep-wine-runner/badge/fork.svg?theme=dark' alt='fork'></img></a>  
 # 仓库目前已合并至 Wine 运行器 C++Version 分支
 Wine 运行器仓库地址：  
 https://gitee.com/gfdgd-xi/deep-wine-runner  
