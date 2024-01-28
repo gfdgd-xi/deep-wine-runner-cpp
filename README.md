@@ -3,7 +3,11 @@
 <hr>
 <a href='https://gitee.com/gfdgd-xi/deep-wine-runner-cpp/stargazers'><img src='https://gitee.com/gfdgd-xi/deep-wine-runner-cpp/badge/star.svg?theme=dark' alt='star'></img></a>
 <a href='https://gitee.com/gfdgd-xi/deep-wine-runner-cpp/members'><img src='https://gitee.com/gfdgd-xi/deep-wine-runner-cpp/badge/fork.svg?theme=dark' alt='fork'></img></a>  
-
+# 仓库目前已合并至 Wine 运行器 C++Version 分支
+Wine 运行器仓库地址：  
+https://gitee.com/gfdgd-xi/deep-wine-runner  
+https://github.com/gfdgd-xi/deep-wine-runner  
+https://sourceforge.net/projects/deep-wine-runner  
 ## 介绍
 Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。  
 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。  
